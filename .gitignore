@@ -1,0 +1,7 @@
+﻿**/.venv*/
+**/venv/
+**/tfenv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.py[cod]
+.env
